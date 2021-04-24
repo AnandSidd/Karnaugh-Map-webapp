@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KMapWebApp/static/css/main.e91acf3c.chunk.css",
+    "main.js": "/KMapWebApp/static/js/main.9456d777.chunk.js",
+    "main.js.map": "/KMapWebApp/static/js/main.9456d777.chunk.js.map",
+    "runtime-main.js": "/KMapWebApp/static/js/runtime-main.9741cec3.js",
+    "runtime-main.js.map": "/KMapWebApp/static/js/runtime-main.9741cec3.js.map",
+    "static/js/2.fb6c3cf8.chunk.js": "/KMapWebApp/static/js/2.fb6c3cf8.chunk.js",
+    "static/js/2.fb6c3cf8.chunk.js.map": "/KMapWebApp/static/js/2.fb6c3cf8.chunk.js.map",
+    "index.html": "/KMapWebApp/index.html",
+    "precache-manifest.8d79fba821170b85712c532f87da6009.js": "/KMapWebApp/precache-manifest.8d79fba821170b85712c532f87da6009.js",
+    "service-worker.js": "/KMapWebApp/service-worker.js",
+    "static/css/main.e91acf3c.chunk.css.map": "/KMapWebApp/static/css/main.e91acf3c.chunk.css.map",
+    "static/js/2.fb6c3cf8.chunk.js.LICENSE.txt": "/KMapWebApp/static/js/2.fb6c3cf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9741cec3.js",
+    "static/js/2.fb6c3cf8.chunk.js",
+    "static/css/main.e91acf3c.chunk.css",
+    "static/js/main.9456d777.chunk.js"
+  ]
+}
