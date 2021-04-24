@@ -1,5 +1,5 @@
 ## Karnaugh Map Solver
-[Click here to open demo](https://warcreed.github.io/Karnaugh-Map-Solver/ "Demo Mappa Di Karnaugh")
+[Click here to open demo](https://k-map-solver.netlify.app/)
 
 >The Karnaugh map (KM or K-map) is a method of simplifying Boolean algebra expressions. The Karnaugh map reduces the need for extensive calculations by taking advantage of humans' pattern-recognition capability. It also permits the rapid identification and elimination of potential race conditions.
 
