@@ -28,7 +28,7 @@ It is divided into:
 
 It is possible to set {0,1,X} values to every single combination of input both in the truth table and on the map. The table and the map will be synchronized, so that the user is free to choose his own  input method.
 
-![The image shows the synchronized table and map](Screenshot from 2021-04-24 18-45-55 (1).jpg)
+![The image shows the synchronized table and map](/Screenshot from 2021-04-24 18-45-55 (1).jpg)
 
 You can click the button **Process**, in the setup menu on the right side of the page, when the criteria are set.
 
