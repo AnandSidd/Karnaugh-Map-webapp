@@ -617,6 +617,7 @@ export default class KarnaughMap extends React.Component {
   
             if (v !== k && temp[k].length>0) 
             {
+                // eslint-disable-next-line
               value = groups[k].findIndex((obj2) => obj1.row === obj2.row && obj1.col === obj2.col); 
               if (value !== -1) 
                 found = true;
