@@ -50,8 +50,3 @@ The solver can be used online through any browser, it needs [Node.js](https://no
 ### Execution
 *   Open the terminal in the folder where you cloned this project.
 *   Type in terminal `npm start` and the app will be showed on http://localhost:3000. If nothing appears, just wait for the initialization times.
-
-## Developed by
-* [Rosario Scavo](https://github.com/rosarioscavo "Rosario Scavo")
-* [Danilo Santitto](https://github.com/Warcreed "Warcreed")
-* [Simone Torrisi](https://github.com/Quezal17 "Quezal17")
